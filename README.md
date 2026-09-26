@@ -10,7 +10,7 @@ A statistical study testing whether India's growing integration with the global 
 | **Period** | 2000–2024 (25 years, post-1991 liberalization era) |
 | **Data source** | [World Bank World Development Indicators](https://data.worldbank.org/country/india) |
 | **Method** | Simple & multiple linear regression, correlation analysis, in R |
-| **Authors** | Lakshita Jayal, Radhika Gupta |
+| **Author** | Lakshita Jayal |
 
 ## Definitions
 
@@ -127,7 +127,7 @@ Requires base R (no extra packages needed). Charts and console output are writte
 
 R (base `stats`, `graphics`) · World Bank Open Data API
 
-## Authors
+## Author
 
 - **Lakshita Jayal**
-- **Radhika Gupta**
+
